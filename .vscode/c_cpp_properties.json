@@ -1,0 +1,22 @@
+{
+    "configurations": [{
+        "name": "Win32",
+        "includePath": [
+            "${workspaceFolder}/**",
+            "D:/Program Files/MinGW/include/**",
+            "d: /program files/ mingw/ bin/.. / lib / gcc / mingw32 / 4.6 .2 / include / c++",
+            "d: /program files/ mingw/ bin/.. / lib / gcc / mingw32 / 4.6 .2 / include / c++/mingw32",
+            "d: /program files/ mingw/ bin/.. / lib / gcc / mingw32 / 4.6 .2 / include / c++/backward",
+            "d: /program files/ mingw/ bin/.. / lib / gcc / mingw32 / 4.6 .2 / include",
+            "d: /program files/ mingw/ bin/.. / lib / gcc / mingw32 / 4.6 .2 / .. / .. / .. / .. / include",
+            "d: /program files/ mingw/ bin/.. / lib / gcc / mingw32 / 4.6 .2 / include - fixed"
+        ],
+        "defines": [
+            "_DEBUG",
+            "UNICODE",
+            "_UNICODE"
+        ],
+        "intelliSenseMode": "msvc-x64"
+    }],
+    "version": 4
+}
